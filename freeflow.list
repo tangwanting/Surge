@@ -1,0 +1,6 @@
+# > freeflow
+DOMAIN-SUFFIX,cloud.189.cn
+DOMAIN-SUFFIX,ctyun.cn
+DOMAIN-SUFFIX,aliyundrive.net
+IP-CIDR,1.14.103.242/32
+IP-CIDR,10.10.10.10/24
